@@ -1,3 +1,9 @@
+# Logan Bradley-Trietsch's first CS 193 Lab
+
+* Bullet 1
+  * Bullet 2
+* Bullet 3
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
