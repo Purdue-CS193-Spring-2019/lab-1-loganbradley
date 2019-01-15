@@ -12,7 +12,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+```{bash}
+echo hi
+```
 ## Header 2
+
+```{python}
+for i in range(10):
+  print i
+```
 ### Header 3
 
 - Bulleted
