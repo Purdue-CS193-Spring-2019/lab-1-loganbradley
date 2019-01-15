@@ -53,6 +53,10 @@ Content Cell  | Content Cell
 Content Cell  | Content Cell
 oh           |  oho
 
+- [ ] Thing I didn't do
+- [ ] Thing that definitely got done
+
+
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
