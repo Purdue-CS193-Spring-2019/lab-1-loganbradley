@@ -1,12 +1,12 @@
 # Logan Bradley-Trietsch's first CS 193 Lab
 
 - I love the smiley faces!!! 
-  -- ♡＾▽＾♡
-  -- Please include smiley faces in all the labs!
-    --- It would make me very happy
-      ---- So happy
-        ----- so very happy
-          ------ :)
+  - ♡＾▽＾♡
+  - Please include smiley faces in all the labs!
+    - It would make me very happy
+      - So happy
+        - so very happy
+          - :)
 - I am excited to learn about things like
   - Git
   - Text Editors
