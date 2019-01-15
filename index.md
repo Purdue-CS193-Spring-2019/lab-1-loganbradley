@@ -54,7 +54,7 @@ Content Cell  | Content Cell
 oh           |  oho
 
 - [ ] Thing I didn't do
-- [ ] Thing that definitely got done
+- [ X] Thing that definitely got done
 
 
 ```
