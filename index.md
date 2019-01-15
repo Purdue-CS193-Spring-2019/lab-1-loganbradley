@@ -22,7 +22,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+`markdown`
 Syntax highlighted code block
 
 # Header 1
@@ -46,8 +46,14 @@ for i in range(10):
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
+Table Header Uno  | Table Header Dos
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+oh           |  oho
+
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
