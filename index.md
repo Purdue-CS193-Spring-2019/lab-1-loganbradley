@@ -8,9 +8,9 @@
         * so very happy
           * :)
 * I am excited to learn about things like
- * Git
- * Text Editors
- * Other important professional skills for CS
+  * Git
+  * Text Editors
+  * Other important professional skills for CS
 
 ## Welcome to GitHub Pages
 
