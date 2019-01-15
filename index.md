@@ -56,7 +56,7 @@ oh           |  oho
 - [ ] Thing I didn't do
 - [X] Thing that definitely got done
 
-![picture alt](https://vignette.wikia.nocookie.net/xenoblade/images/d/de/Baroba.PNG/revision/latest?cb=20140724151857 "Baroba")
+![Baroba](https://vignette.wikia.nocookie.net/xenoblade/images/d/de/Baroba.PNG/revision/latest?cb=20140724151857 "Baroba")
 
 
 ```
