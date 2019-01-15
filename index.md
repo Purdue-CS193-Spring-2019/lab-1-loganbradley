@@ -3,7 +3,7 @@
 * I love the smiley faces!!! 
   * ♡＾▽＾♡
   * Please include smiley faces in all the labs!
-        * It would make me very happy
+    * It would make me very happy
 * I am excited to learn about things like
  * Git
  * Text Editors
